@@ -93,9 +93,9 @@ Awesome family related to LLMS includes:
 |50|Gemma-2|9B,27B|8T,13T|2024-06-27||
 |51|Deepseek-Coder-V2|16B,236B|10.2T|2024-06-17|MoE|
 |52|GLM-4|9B|10T|2024-06-05||
-|53|LLaMA-3.1|15T|8B,70B,405B|2024-07-23||
-|54|XVERSE-MoE||255.4B|2024-09-10||
-|55|Pixtral||12B|2024-09-10|多模态|
+|53|LLaMA-3.1|8B,70B,405B|15T|2024-07-23||
+|54|XVERSE-MoE|255.4B||2024-09-10||
+|55|Pixtral|12B||2024-09-10|多模态|
 
 
 
