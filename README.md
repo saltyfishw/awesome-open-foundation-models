@@ -77,7 +77,7 @@ Awesome family related to LLMS includes:
 |34|[QWen-1.5](https://github.com/QwenLM/Qwen1.5)|0.5B,1.8B,4B,7B,14B,32B,72B|2.4T,2.4T,2.4T,4T,4T,3T,3T|2024-02-06||
 |35|[QWen-1.5-110B](https://github.com/QwenLM/Qwen1.5)|110B|2.2T|2024-04-24||
 |36|[DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)|132B|12T|2024-03-27|MOE 36B/132B, 4/16experts|
-|37|[Gemma](https://huggingface.co/blog/gemma)|7B,2B|6T|2024-02-20|终端设备|
+|37|[Gemma-1](https://huggingface.co/blog/gemma)|7B,2B|6T|2024-02-20|终端设备|
 |38|[Yi-1.5](https://github.com/01-ai/Yi-1.5)|6B,9B,34B|3.5T|2024-05-13|零一万物，在Yi之上用了500B 语料增量训练得到|
 |39|Yi-VL|6B,34B||2024-01-18|Clip ViT-H/14+Yi-6/34B-Chat,100M图文对|
 |40|[Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT)|1.5B||2024-05-13|腾讯混元文生图|
@@ -91,6 +91,12 @@ Awesome family related to LLMS includes:
 |48|[Qwen-2](./Open-LLMs/qwen2.md)|0.5B,1.5B,7B,57B,72B|7T|2024-05-23|57B是个MOE，64E选8的模型|
 |49|Skywork-MoE|146B||2024-06-03|16EX13B，A:22B|
 |50|Gemma-2|9B,27B|8T,13T|2024-06-27||
+|51|Deepseek-Coder-V2|16B,236B|10.2T|2024-06-17|MoE|
+|52|GLM-4|9B|10T|2024-06-05||
+|53|LLaMA-3.1|15T|8B,70B,405B|2024-07-23||
+|54|XVERSE-MoE||255.4B|2024-09-10||
+|55|Pixtral||12B|2024-09-10|多模态|
+
 
 
 
